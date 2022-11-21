@@ -1,5 +1,7 @@
 # Project-Discrete-Event-Systems
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=natasabrisudova&repo=nProject-Discrete-Event-Systems&countColor=%237B1E7A)
+
 HOW TO RUN THIS CODE:
 
 The main script is 'Project_menu.m':
